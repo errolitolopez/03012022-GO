@@ -1,0 +1,28 @@
+Go
+What
+1. Programming language designed by Google
+2. Statically - Values are typed defined in advance
+3. Compiled - Code is compiled ahead of execution
+Why
+1. Easier syntax
+2. Strict typing like Java and C/C++
+3. Better performance
+4. Built-in core features and great support for third party code
+
+Functions
+What
+1. Code On Demand
+2. Reusable Code
+
+Pointers
+What
+1. Variables that stores the address instead of the value
+Why
+2. Can be avoid unnecessary copies of values
+
+Structs
+What
+1. Objects in other programming
+2. Blueprint
+Why
+1. Useful for grouping data
